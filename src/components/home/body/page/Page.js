@@ -13,13 +13,14 @@ const Button = styled.button`
     background: var(--main-color);
     color: #fff;
     border: none;
-    padding: 12px 20px;
+    padding: 9px 14px;
     margin: 1%;
     font-family: s_regular;
     border-radius: 5px;
     box-shadow: 0px 5px 12px rgba(0,0,0,0.09);
     transition: 0.3s ease-out;
     cursor: pointer;
+    font-size: 15px;
     outline: none;
     &hover: {
         box-shadow: 0px 2px 7px rgba(0,0,0,0.09); 
