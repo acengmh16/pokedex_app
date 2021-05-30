@@ -1,0 +1,16 @@
+@font-face{
+    src: url('../fonts/Product Sans Regular.ttf');
+    font-family: s_regular;
+}
+@font-face{
+    src: url('../fonts/Product Sans Italic.ttf');
+    font-family: s_italic;
+}
+@font-face{
+    src: url('../fonts/Product Sans Bold.ttf');
+    font-family: s_bold;
+}
+@font-face{
+    src: url('../fonts/Product Sans Bold Italic.ttf');
+    font-family: s_bold_italic;
+}
